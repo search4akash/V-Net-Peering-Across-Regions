@@ -3,7 +3,7 @@
 ## "Introduction"
 
 In this project, I tried to explore how to set up cross-region V-Net peering in Microsoft Azure. 
-VNet peering allows usres to connect virtual networks across different Azure regions securely. We’ll cover the necessary steps and provide an architectural diagram to illustrate the setup.
+VNet peering allows users to connect virtual networks across different Azure regions securely. We’ll cover the necessary steps and provide an architectural diagram to illustrate the setup.
 Here is the Architectural Diagram:
 ![Peering Latest](https://github.com/user-attachments/assets/33a2c207-fc0d-452b-bcf8-4279da3cbe99
 
