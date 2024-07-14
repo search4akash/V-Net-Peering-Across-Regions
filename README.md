@@ -9,9 +9,10 @@ Here is the Architectural Diagram:
 
 ### Prerequisites
 Before we begin, ensure you have the following:
-Azure Subscription: You’ll need an active Azure subscription.
-Two VNets: Create two virtual networks (VNets) in different Azure regions. These VNets will be peered.
-Network Security Groups (NSGs): If you want to control traffic between VNets, configure NSGs accordingly.
+**Azure Subscription**: You’ll need an active Azure subscription.
+**Two VNets**: Create two virtual networks (VNets) in different Azure regions. These VNets will be peered.
+**Network Security Groups (NSGs)**: If you want to control traffic between VNets, configure NSGs accordingly.
+_Action Group_: This is optional either you can ignore it or set this to get Azure App/ E-mail notificatons
 
 **Step 1**: Create VNets
             Log in to the Azure Portal.
