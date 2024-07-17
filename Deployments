@@ -15,7 +15,7 @@
                 "emailReceivers": [
                     {
                         "name": "Budget Exceeds BOSS_-EmailAction-",
-                        "emailAddress": "Search4akash@outlook.com",
+                        "emailAddress": " youremali.contoso.com ",
                         "useCommonAlertSchema": false
                     }
                 ],
@@ -26,7 +26,7 @@
                 "azureAppPushReceivers": [
                     {
                         "name": "Budget Exceeds BOSS_-AzureAppAction-",
-                        "emailAddress": "Search4akash@outlook.com"
+                        "emailAddress": "youremali.contoso.com"
                     }
                 ],
                 "automationRunbookReceivers": [],
