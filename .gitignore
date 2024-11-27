@@ -1,0 +1,29 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+/dist/
+/build/
+
+# Ignore local configuration files
+*.env
+*.local
+local.settings.json  # For Azure Functions
+
+# Ignore Azure specific files
+*.publishsettings
+*.azure
+*.json
+*.pfx
+*.cer
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
